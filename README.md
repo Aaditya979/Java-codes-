@@ -1,2 +1,2 @@
 # Set-classes
-daily coding 
+All the new codes i learnt 
